@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel {
+
+    margin-top: 5rem;
+
+}
+
+.carousel-text {
+    font-size: 16;
+    font-weight: 700;
+}
+
+.containerone {
+    margin-top: 25px;
+}
+
+.carousel-img {
+    height: 640px;
+    opacity: 90%;
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom: 45%;
+    right: 55%;
+    color: rgb(0, 0, 0);
+}
+
+.hero {
+    padding: 0;
+    opacity: 90%;
+
+}
+
+.navbar {
+    height: 30px;
+    margin-bottom: 30px;
+
+}
+
+a:hover {
+    color: rgb(95, 95, 235);
+}
+
+a:active {
+    color: red;
+}
+
+.nav-link {
+    font-size: 13px;
+    color: black;
+
+}
+
+.first {
+    height: 40px;
+}
+
+.home {
+    color: red;
+}
+
+.number {
+    font-size: 8px;
+    padding-top: 5px;
+}
+
+.dropdown-menu {
+    border-color: rgb(67, 107, 238);
+}
+
+.dropdown-item {
+    font-size: 10px;
+    color: gray;
+}
+
+
+
+.bg {
+    width: 20%;
+    height: 25rem;
+    padding-right: 70px;
+    margin-right: 20px;
+}
+
+.jumbotron-img {
+    width: 40%;
+    height: 100%;
+    padding-right: 70px;
+    opacity: 90%;
+}
+
+.head-jumbotron {
+    width: 100%;
+    height: 15rem;
+}
+
+.image {
+    width: 60%;
+
+
+}
+
+.big img {
+    width: 100%;
+    height: 410px;
+    opacity: 80%;
+}
+
+.big h3 {
+
+    font-weight: 500;
+    color: whitesmoke;
+    padding: 100px 20px 0px 20px;
+    margin-bottom: 5px;
+}
+
+.big p {
+
+    font-weight: 400;
+    color: whitesmoke;
+    padding: 0 20px 0px 20px;
+    margin-left: 5px;
+}
+
+.small img {
+    width: 100%;
+    height: 300px;
+}
+
+.values h6 {
+    font-weight: 700;
+    font-size: 14px;
+}
+
+
+.values p {
+    font-size: 12px;
+}
+
+.footimages {
+    width: 100%;
+    height: 70px;
+
+}
